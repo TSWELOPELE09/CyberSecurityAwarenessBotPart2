@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyberSecurityAwarenessBotPart2", "CyberSecurityAwarenessBotPart2.csproj", "{B3EEE764-6856-4395-B054-EDE5C1928BE9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5B26999C-556D-4E78-A2E4-08C2A56291EC}"
+	ProjectSection(SolutionItems) = preProject
+		welcome_message.wav = welcome_message.wav
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3EEE764-6856-4395-B054-EDE5C1928BE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3EEE764-6856-4395-B054-EDE5C1928BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3EEE764-6856-4395-B054-EDE5C1928BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3EEE764-6856-4395-B054-EDE5C1928BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
